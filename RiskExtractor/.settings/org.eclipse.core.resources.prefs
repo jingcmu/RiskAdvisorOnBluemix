@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/edu/cmu/sv/webcrawler/models/Keywords.java=UTF-8
+encoding//src/edu/cmu/sv/webcrawler/models/Risks.java=UTF-8
+encoding//src/edu/cmu/sv/webcrawler/services/KeywordExtractor.java=UTF-8
+encoding//src/edu/cmu/sv/webcrawler/services/RiskExtractor.java=UTF-8
+encoding//src/edu/cmu/sv/webcrawler/services/RisksService.java=UTF-8
+encoding//src/main/Main.java=UTF-8
